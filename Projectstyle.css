@@ -1,0 +1,55 @@
+p.cardtext{text-align: left;
+            font-size: medium;}
+
+div.carding{position: relative;
+             width: 18rem;
+             left:5%;
+             top: 18rem;
+             max-height: 1200px;
+
+             }
+    .cardrow{position: relative;
+              right: 15%;
+              width: 1300px;}                     
+div.headersizing{ max-height: 200px;
+                   height: 100%;}
+    .jumbotronfluid{background-size: cover ;}
+    .cars{height: 100%;
+          width: 80%;}
+    .cardswidth{padding-left: 13.5%;
+                padding-right: 12.5%;
+                max-width: 1520px;}
+
+    nav.navclass{height: 5%;
+                 width: 100%;}
+h1.jumbotronheader{font-size: 3rem;}  
+  .cardhigh{color: red;}  
+
+footer{background-color:black;
+        width: 100%;
+       padding-top: 8px;
+       padding-right: 8px;
+       padding-left: 8px;}
+div.copyright{background-color: black;
+               color: white;
+               border: 0px;
+               text-align: center;
+              }
+    .footerpd{padding: 0px;}
+    h1.headersize{color: black;
+                        text-decoration: none; 
+                        font-weight: b;}
+                      a.jumbo:hover{text-decoration: none;
+                                    color: black;}
+                      a.jumbo1{text-decoration: none;
+                                color: black;
+                                font-size: large;}
+   input.sub{position: relative;
+             left: 5%;
+             background-color: black;
+             border: white 3px solid;
+             color: white;}
+   div.subs{position: relative;
+            top: 35%;}
+            h2.aboutus{position: relative;
+                left:5%;}
